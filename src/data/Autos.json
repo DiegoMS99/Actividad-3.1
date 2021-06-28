@@ -1,0 +1,40 @@
+{
+  "AutosEnsamblar": [
+    {
+      "id": 1,
+      "motor": "VW",
+      "puertas": 4,
+      "marca": "FIAT",
+      "carroceria": "Corolla",
+      "ruedas": 4,
+      "tanque": 1,
+      "asientos": 2,
+      "ventanas": 4,
+      "transmision": "automatica"
+    },
+    {
+      "id": 2,
+      "motor": "Axial",
+      "puertas": 2,
+      "marca": "Ford",
+      "carroceria": "Aveo",
+      "ruedas": 4,
+      "tanque": 1,
+      "asientos": 4,
+      "ventanas": 2,
+      "transmision": "manual"
+    },
+    {
+      "id": 3,
+      "motor": "Wankel",
+      "puertas": 6,
+      "marca": "Chevrolet",
+      "carroceria": "Chasis Explorer",
+      "ruedas": 4,
+      "tanque": 1,
+      "asientos": 2,
+      "ventanas": 4,
+      "transmision": "automatica"
+    }
+  ]
+}
